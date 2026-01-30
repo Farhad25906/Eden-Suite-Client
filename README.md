@@ -4,8 +4,8 @@ A modern, responsive React application for Eden Suite, a luxury hotel booking pl
 
 ## 🌐 Live URL
 
-- **Frontend:** [https://b9a11-client-side-farhad2590.web.app](https://b9a11-client-side-farhad2590.web.app)
-- **Backend API:** [https://eden-suite-server.vercel.app](https://eden-suite-server.vercel.app) *(Replace with actual server URL if different)*
+- **Frontend Client:** [https://eden-suite-client.vercel.app/](https://eden-suite-client.vercel.app/)
+- **Backend API:** [https://eden-suite-server.vercel.app](https://eden-suite-server.vercel.app) 
 
 ---
 
